@@ -1,7 +1,7 @@
 const socket = io()
 console.log(socket)
 
-const HOST = 'http://localhost:3006'
+const HOST = 'https://glitch-test-bthv.onrender.com'
 
 let user
 
